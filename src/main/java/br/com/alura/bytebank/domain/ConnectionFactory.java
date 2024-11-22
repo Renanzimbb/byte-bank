@@ -1,5 +1,6 @@
 package br.com.alura.bytebank.domain;
 
+//https://refactoring.guru/pt-br/design-patterns/factory-method
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
