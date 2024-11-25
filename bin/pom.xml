@@ -19,11 +19,5 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.31</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/hikari-cp/hikari-cp -->
-        <dependency>
-            <groupId>com.zaxxer</groupId>
-            <artifactId>HikariCP</artifactId>
-            <version>5.0.1</version> <!-- Substitua pela versão mais recente -->
-        </dependency>
     </dependencies>
 </project>
